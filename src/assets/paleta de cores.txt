@@ -1,0 +1,30 @@
+Cor de Fundo Principal (Neutra e Aconchegante):
+🟤 #F8F4E3 – Um tom de creme claro, perfeito para o fundo.
+
+Sugestão: Use como fundo principal para criar uma base tranquila e acolhedora.
+
+Cor de Texto (Alta Legibilidade):
+⚫ #4A4A4A – Um cinza escuro suave em vez de preto puro.
+
+Sugestão: Use para textos principais e títulos.
+
+Cor de Destaque 1 (Aconchego Quente):
+🟠 #E6A57E – Um tom de pêssego aconchegante, ótimo para botões ou links.
+
+Sugestão: Use para chamadas à ação e detalhes importantes.
+
+Cor de Destaque 2 (Equilíbrio e Suavidade):
+🟢 #A2CDB0 – Um verde menta calmante, que traz equilíbrio.
+
+Sugestão: Use para áreas de foco ou para contrastar com a cor de destaque quente.
+
+Cor de Fundo Secundário (Variedade e Conforto):
+🔵 #D3E4CD – Um verde claro pastel, ótimo para seções secundárias.
+
+Sugestão: Use para diferenciar seções do site.
+
+Cor de Alerta ou Ênfase (Discreta e Sofisticada):
+🔴 #D76A5A – Um tom de terracota suave.
+
+Sugestão: Use para erros ou avisos, sem causar desconforto visual.
+
