@@ -49,8 +49,7 @@ import rodapeVue from './components/rodape.vue'
 }
 
 .titulo-da-harpa {
-  font-family:'Courier New', Courier, monospace;
-  font-weight: 500;
+  font-weight:600;
   font-size: 1.5rem;
 }
 
